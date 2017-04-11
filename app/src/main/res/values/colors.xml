@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="btn_text">#ffffff</color>
+    <color name="point_text">#616161</color>
+    <color name="h_point_text">#000000</color>
+    <color name="md_material_blue_800">#1565C0</color>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/lyn_layout.CardStyle">
+
+    <LinearLayout
+        style="@style/lyn_layout"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="80dp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            style="@style/dialog_icon"
+            android:layout_width="match_parent" />
+
+        <LinearLayout style="@style/lyn_layout.layout_win">
+
+            <TextView
+                android:id="@+id/winner"
+                style="@style/dialog_text"
+                android:text="@string/txt_winner" />
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/btn_dialog"
+            style="@style/TextAppearance.AppCompat.Widget.DropDownItem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="@dimen/c_bottom"
+            android:background="@color/cardview_light_background"
+            android:text="@string/btn_winner"
+            android:textColor="@android:color/holo_blue_light"
+            tools:shadowColor="@drawable/common_google_signin_btn_icon_dark_pressed"
+            tools:singleLine="true" />
+
+    </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">scoreKeeper</string>
+    <string name="btn_winner">ok</string>
+    <string name="txt_winner">winner</string>
+    <string name="team_point">0</string>
+    <string name="btn_red">red point</string>
+    <string name="btn_yellow">yellow point</string>
+    <string name="ends">ends</string>
+    <string name="outs">outs</string>
+    <string name="btn_reset">new game</string>
+    <string name="set_endr">set end</string>
+    <string name="take_outr">take out</string>
+    <string name="set_endy">set end</string>
+    <string name="take_outy">take out</string>
+    <string name="go_rwin">Game Over,  Team Red Win!</string>
+    <string name="go_ywin">Game Over,  Team Yellow Win!</string>
+    <string name="draw">DRAW! +FINAL END!</string>
+    <string name="new_g">NEW GAME!</string>
+    <string name="title">CURLING - SCORE COUNTER</string>
+    <string name="TRS">TEAM_R_SCORE</string>
+    <string name="TYS">TEAM_Y_SCORE</string>
+    <string name="TRE">TEAM_R_END</string>
+    <string name="TYE">TEAM_Y_END</string>
+    <string name="TRO">TEAM_R_OUT</string>
+    <string name="TYO">TEAM_Y_OUT</string>
+   </resources>
+
